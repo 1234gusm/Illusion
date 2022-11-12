@@ -1,7 +1,7 @@
 # Illusion
 Top-tier Modern Unblocker
 
-## install
+## Install
 ```bash
 $ git clone https://github.com/scaratek/illusion
 $ cd illusion
