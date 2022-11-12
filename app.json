@@ -1,0 +1,7 @@
+{
+    "name": "Ultraviolet App",
+    "description": "Node.js Ultraviolet instance",
+    "repository": "https://github.com/Titanium-Network/ultraviolet-web-app",
+    "logo": "https://github.com/Titanium-Network/Ultraviolet/blob/main/uv.png?raw=true",
+    "keywords": ["tomp", "ultraviolet"]
+}
