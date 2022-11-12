@@ -11,5 +11,5 @@ $ npm start
 ```
 
 ## Credit
-Ultraviolet - https://github.com/titanium-network/ultraviolet-node
-Gfiles - https://github.com/binbashbanana/gfiles
+- Ultraviolet - https://github.com/titanium-network/ultraviolet-node
+- Gfiles - https://github.com/binbashbanana/gfiles
